@@ -23,6 +23,7 @@ function App() {
 
        { toDos.map((value)=>{
 
+
         return(
           <div className="todo">
           <div className="left">
